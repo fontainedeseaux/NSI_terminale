@@ -7,4 +7,5 @@
 # ● *Chiffrement symétrique* : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/NSI_terminale/HEAD?urlpath=%2Fnotebooks%2Fchiffrement_symetrique%2Fchiffrement_symetrique.ipynb)
 # ● *Modélisation puissance 4* : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/NSI_terminale/HEAD?urlpath=%2Fnotebooks%2Fmodelisation_puissance_4%2Fmodelisation_puissance_4.ipynb)
 # ● *Algorithme du MiniMax* : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/NSI_terminale/HEAD?urlpath=%2Fnotebooks%2FMinMax%2Fminimax.ipynb)
+# ● *Elagage Alpha Beta* : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/NSI_terminale/HEAD?urlpath=%2Fnotebooks%2FElagage_Alpha_Beta%2Felagage_alpha_beta.ipynb)
 
